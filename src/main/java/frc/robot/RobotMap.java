@@ -3,7 +3,7 @@ package frc.robot;
 public class RobotMap {
 
     public interface CAN {
-
+        int THE_GREAT_MOVIL = 16;
     }
 
     public interface DIO {
